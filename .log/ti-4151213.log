@@ -1,0 +1,30 @@
+[19:57:18.358] Global cache location '/home/eko/.cache/typescript/4.7', safe file path '/usr/lib/node_modules/typescript/lib/typingSafeList.json', types map path /usr/lib/node_modules/typescript/lib/typesMap.json
+[19:57:18.358] Processing cache location '/home/eko/.cache/typescript/4.7'
+[19:57:18.358] Trying to find '/home/eko/.cache/typescript/4.7/package.json'...
+[19:57:18.425] Loaded content of '/home/eko/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.609"},"devDependencies":{"@types/dot":"^1.1.5","@types/react":"^18.0.18","@types/react-document-title":"^2.0.5","@types/react-dom":"^18.0.6","@types/react-transition-group":"^4.4.5","@types/react-type-animation":"^1.1.1","@types/testing-library__jest-dom":"^5.14.5","@types/uuid":"^8.3.4"}}
+[19:57:18.425] Loaded content of '/home/eko/.cache/typescript/4.7/package-lock.json'
+[19:57:18.473] Adding entry into typings cache: 'dot' => '/home/eko/.cache/typescript/4.7/node_modules/@types/dot/index.d.ts'
+[19:57:18.485] Adding entry into typings cache: 'react' => '/home/eko/.cache/typescript/4.7/node_modules/@types/react/index.d.ts'
+[19:57:18.496] Adding entry into typings cache: 'react-document-title' => '/home/eko/.cache/typescript/4.7/node_modules/@types/react-document-title/index.d.ts'
+[19:57:18.503] Adding entry into typings cache: 'react-dom' => '/home/eko/.cache/typescript/4.7/node_modules/@types/react-dom/index.d.ts'
+[19:57:18.519] Adding entry into typings cache: 'react-transition-group' => '/home/eko/.cache/typescript/4.7/node_modules/@types/react-transition-group/index.d.ts'
+[19:57:18.527] Adding entry into typings cache: 'react-type-animation' => '/home/eko/.cache/typescript/4.7/node_modules/@types/react-type-animation/index.d.ts'
+[19:57:18.540] Adding entry into typings cache: 'testing-library__jest-dom' => '/home/eko/.cache/typescript/4.7/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[19:57:18.546] Adding entry into typings cache: 'uuid' => '/home/eko/.cache/typescript/4.7/node_modules/@types/uuid/index.d.ts'
+[19:57:18.546] Finished processing cache location '/home/eko/.cache/typescript/4.7'
+[19:57:18.546] Process id: 4151326
+[19:57:18.546] NPM location: /usr/local/bin/npm (explicit '--npmLocation' not  provided)
+[19:57:18.546] validateDefaultNpmLocation: false
+[19:57:18.547] Npm config file: /home/eko/.cache/typescript/4.7/package.json
+[19:57:18.547] Updating types-registry npm package...
+[19:57:18.547] Exec: /usr/local/bin/npm install --ignore-scripts types-registry@latest
+[19:57:19.514]     Succeeded. stdout:
+    
+    up to date, audited 30 packages in 661ms
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[19:57:19.514] Updated types-registry npm package

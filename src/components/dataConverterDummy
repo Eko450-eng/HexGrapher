@@ -1,0 +1,17 @@
+[21:13:36] [Render thread/INFO]: [CHAT] [HexPattern(NORTH_EAST qaq), HexPattern(EAST aa), HexPattern(NORTH_EAST qaq), HexPattern(NORTH_EAST wa), HexPattern(EAST wqaawdd), HexPattern(NORTH_EAST qaq), HexPattern(EAST aa), HexPattern(NORTH_EAST qaq), HexPattern(NORTH_EAST wa), HexPattern(EAST weddwaa), HexPattern(NORTH_EAST waaw), HexPattern(NORTH_EAST qqd)]
+
+// [21:13:36] [Render thread/INFO]: [CHAT]
+export const dataConverter = {
+	[HexPattern(NORTH_EAST qaq)
+	 , HexPattern(EAST aa)
+	 , HexPattern(NORTH_EAST qaq)
+	 , HexPattern(NORTH_EAST wa)
+	 , HexPattern(EAST wqaawdd)
+	 , HexPattern(NORTH_EAST qaq)
+	 , HexPattern(EAST aa)
+	 , HexPattern(NORTH_EAST qaq)
+	 , HexPattern(NORTH_EAST wa)
+	 , HexPattern(EAST weddwaa)
+	 , HexPattern(NORTH_EAST waaw)
+	 , HexPattern(NORTH_EAST qqd)]
+}
