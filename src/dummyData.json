@@ -1,0 +1,70 @@
+Item.of('hexcasting:spellbook',
+				"{display:{Name:'{\"text\":\"Light\"}'},page_idx:1,page_names:{1:'{\"text\":\"Light\"}',2:'{\"text\":\"Summon Sentinel\"}',3:'{\"text\":\"Clear Sentinel\"}',4:'{\"text\":\"BlockSide\"}',5:'{\"text\":\"Teleport entity\"}',6:'{\"text\":\"List of monsters\"}',7:'{\"text\":\"Teleport to sentinel\"}'},pages:{1:{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;0B,4B],start_dir:0b}},{pattern:{angles:[B;0B,5B,4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;0B,4B],start_dir:0b}},{pattern:{angles:[B;0B,1B,2B,2B,0B,4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,4B,0B],start_dir:0b}},{pattern:{angles:[B;5B,5B,2B],start_dir:0b}}]},10:{list:[{list:[{pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},{pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},{pattern:{angles:[B;5B,5B,0B,0B,0B,5B,5B,5B,0B,5B,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,5B,5B,5B,5B,5B],start_dir:0b}}]},{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:3b}},{pattern:{angles:[B;4B,4B],start_dir:3b}},{pattern:{angles:[B;5B,5B,5B,4B,0B],start_dir:4b}},{double:31.999999999999893d},{pattern:{angles:[B;5B,5B,5B,5B,5B,0B,2B,1B,2B,2B,0B,5B],start_dir:2b}},{pattern:{angles:[B;2B,1B],start_dir:0b}}]},{pattern:{angles:[B;2B,1B,4B,5B,5B],start_dir:2b}}]},2:{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B],start_dir:1b}}]},3:{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;5B,2B,0B,2B,5B,2B,0B],start_dir:0b}}]},4:{vec3:[L;4679148959531270144L,4631178160564600832L,-4555937755242168320L]},5:{list:[]},6:{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:3b}},{pattern:{angles:[B;4B,4B],start_dir:3b}},{pattern:{angles:[B;5B,5B,5B,4B,0B],start_dir:4b}},{double:16.0d},{pattern:{angles:[B;5B,5B,5B,5B,5B,0B,2B,1B,2B,2B,0B,5B],start_dir:2b}},{pattern:{angles:[B;2B,1B],start_dir:0b}}]},7:{list:[{pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},{pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},{pattern:{angles:[B;5B,5B,0B,0B,0B,5B,5B,5B,0B,5B,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,5B,5B,5B,5B,5B],start_dir:0b}}]},8:{list:[{pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},{pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},{pattern:{angles:[B;5B,5B,0B,0B,0B,5B,5B,5B,0B,5B,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,5B,5B,5B,5B,5B],start_dir:0b}},{list:[{pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},{pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},{pattern:{angles:[B;5B,5B,0B,0B,0B,5B,5B,5B,0B,5B,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,5B,5B,5B,5B,5B],start_dir:0b}},{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;4B,5B,4B,4B,1B,1B,1B,4B,2B,4B,2B,4B,2B,4B,2B,4B],start_dir:2b}},{pattern:{angles:[B;5B,5B,5B,5B,5B,0B,2B,1B,2B,2B,0B,5B],start_dir:2b}},{pattern:{angles:[B;2B,1B,4B,5B,5B],start_dir:2b}}]}]},{pattern:{angles:[B;2B,1B,4B,5B,5B],start_dir:2b}}]},9:{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:3b}},{pattern:{angles:[B;4B,4B],start_dir:3b}},{pattern:{angles:[B;5B,5B,5B,4B,0B],start_dir:4b}},{double:31.999999999999893d},{pattern:{angles:[B;5B,5B,5B,5B,5B,0B,2B,1B,2B,2B,0B,5B],start_dir:2b}},{pattern:{angles:[B;2B,1B],start_dir:0b}}]}}}")
+Item.of('hexcasting:focus', '{data:{list:[{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;0B,4B],start_dir:0b}},{pattern:{angles:[B;0B,5B,4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;4B,4B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:0b}},{pattern:{angles:[B;0B,4B],start_dir:0b}},{pattern:{angles:[B;0B,1B,2B,2B,0B,4B,4B],start_dir:1b}},{pattern:{angles:[B;0B,4B,4B,0B],start_dir:0b}},{pattern:{angles:[B;5B,5B,2B],start_dir:0b}}]}}')
+[21:13:36] [Render thread/INFO]: [CHAT] [HexPattern(NORTH_EAST qaq), HexPattern(EAST aa), HexPattern(NORTH_EAST qaq), HexPattern(NORTH_EAST wa), HexPattern(EAST wqaawdd), HexPattern(NORTH_EAST qaq), HexPattern(EAST aa), HexPattern(NORTH_EAST qaq), HexPattern(NORTH_EAST wa), HexPattern(EAST weddwaa), HexPattern(NORTH_EAST waaw), HexPattern(NORTH_EAST qqd)]
+
+[21:13:36] [Render thread/INFO]: [CHAT] [HexPattern(NORTH_EAST qaq), HexPattern(EAST aa), HexPattern(NORTH_EAST qaq), HexPattern(NORTH_EAST wa), HexPattern(EAST wqaawdd), HexPattern(NORTH_EAST qaq), HexPattern(EAST aa), HexPattern(NORTH_EAST qaq), HexPattern(NORTH_EAST wa), HexPattern(EAST weddwaa), HexPattern(NORTH_EAST waaw), HexPattern(NORTH_EAST qqd)]
+[{pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;0B,4B],start_dir:0b}},
+ {pattern:{angles:[B;0B,qaq,4B,4B,0B,2B,2B],start_dir:1b}},
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;0B,4B],start_dir:0b}},
+ {pattern:{angles:[B;0B,1B,2B,2B,0B,4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;0B,4B,4B,0B],start_dir:0b}},
+ {pattern:{angles:[B;qaq,qaq,2B],start_dir:0b}}]},10:{list:[{list:[
+ {pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},
+ {pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},
+ {pattern:{angles:[B;qaq,qaq,0B,0B,0B,qaq,qaq,qaq,0B,qaq,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,qaq,qaq,qaq,qaq,qaq],start_dir:0b}}]},{list:[
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:3b}},
+ {pattern:{angles:[B;4B,4B],start_dir:3b}},
+ {pattern:{angles:[B;qaq,qaq,qaq,4B,0B],start_dir:4b}},{double:31.999999999999893d},
+ {pattern:{angles:[B;qaq,qaq,qaq,qaq,qaq,0B,2B,1B,2B,2B,0B,qaq],start_dir:2b}},
+ {pattern:{angles:[B;2B,1B],start_dir:0b}}]},
+ {pattern:{angles:[B;2B,1B,4B,qaq,qaq],start_dir:2b}}]},2:{list:[
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B],start_dir:1b}}]},3:{list:[
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;qaq,2B,0B,2B,qaq,2B,0B],start_dir:0b}}]},4:{vec3:[L;4679148959531270144L,4631178160564600832L,-4555937755242168320L]},5:{list:[]},6:{list:[
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:3b}},
+ {pattern:{angles:[B;4B,4B],start_dir:3b}},
+ {pattern:{angles:[B;qaq,qaq,qaq,4B,0B],start_dir:4b}},{double:16.0d},
+ {pattern:{angles:[B;qaq,qaq,qaq,qaq,qaq,0B,2B,1B,2B,2B,0B,qaq],start_dir:2b}},
+ {pattern:{angles:[B;2B,1B],start_dir:0b}}]},7:{list:[
+ {pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},
+ {pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},
+ {pattern:{angles:[B;qaq,qaq,0B,0B,0B,qaq,qaq,qaq,0B,qaq,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,qaq,qaq,qaq,qaq,qaq],start_dir:0b}}]},8:{list:[
+ {pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},
+ {pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},
+ {pattern:{angles:[B;qaq,qaq,0B,0B,0B,qaq,qaq,qaq,0B,qaq,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,qaq,qaq,qaq,qaq,qaq],start_dir:0b}},{list:[
+ {pattern:{angles:[B;4B,4B,2B,4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;0B,4B,1B,4B,0B,4B,1B,2B,1B],start_dir:1b}},
+ {pattern:{angles:[B;4B,4B,0B,2B,2B],start_dir:1b}},
+ {pattern:{angles:[B;0B,2B,2B,0B],start_dir:5b}},
+ {pattern:{angles:[B;qaq,qaq,0B,0B,0B,qaq,qaq,qaq,0B,qaq,1B,1B,1B,1B,1B,2B,0B,1B,1B,1B,0B,0B,0B,1B,1B,2B,qaq,qaq,qaq,qaq,qaq],start_dir:0b}},{list:[
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:0b}},
+ {pattern:{angles:[B;4B,4B],start_dir:1b}},
+ {pattern:{angles:[B;4B,qaq,4B,4B,1B,1B,1B,4B,2B,4B,2B,4B,2B,4B,2B,4B],start_dir:2b}},
+ {pattern:{angles:[B;qaq,qaq,qaq,qaq,qaq,0B,2B,1B,2B,2B,0B,qaq],start_dir:2b}},
+ {pattern:{angles:[B;2B,1B,4B,qaq,qaq],start_dir:2b}}]}]},
+ {pattern:{angles:[B;2B,1B,4B,qaq,qaq],start_dir:2b}}]},9:{list:[
+ {pattern:{angles:[B;qaq,4B,qaq],start_dir:3b}},
+ {pattern:{angles:[B;4B,4B],start_dir:3b}},
+ {pattern:{angles:[B;qaq,qaq,qaq,4B,0B],start_dir:4b}},{double:31.999999999999893d},
+ {pattern:{angles:[B;qaq,qaq,qaq,qaq,qaq,0B,2B,1B,2B,2B,0B,qaq],start_dir:2b}},
+ {pattern:{angles:[B;2B,1B],start_dir:0b}}

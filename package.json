@@ -30,6 +30,7 @@
     "react-dom": "^18.2.0",
     "react-konva": "^18.2.1",
     "react-scripts": "5.0.1",
+    "react-turtle": "^0.1.6",
     "sass": "^1.54.8",
     "typescript": "^4.8.3",
     "web-vitals": "^2.1.4",
