@@ -25,6 +25,7 @@
     "@types/react-dom": "^18.0.6",
     "dayjs": "^1.11.5",
     "embla-carousel-react": "^7.0.3",
+    "firebase": "^9.6.11",
     "konva": "^8.3.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
