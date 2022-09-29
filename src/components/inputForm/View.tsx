@@ -17,7 +17,7 @@ function View() {
 	const [points, setPoints] = useState<Array<Array<string>>>()
 	const [renderReady, setRenderReady] = useState<boolean>(false)
 
-	const inputForm = useForm({ initialValues: { cast: `Item.of('hexcasting:trinket', "{display:{Name:'{\"text\":\"AddBlockToFocus\"}'},\"hexcasting:mana\":3111700,\"hexcasting:start_mana\":3200000,patterns:[{pattern:{angles:[B;4B,5B,5B,5B,5B,5B],start_dir:1b}},{pattern:{angles:[B;5B,4B,5B],start_dir:3b}},{pattern:{angles:[B;4B,4B],start_dir:3b}},{pattern:{angles:[B;5B,4B,5B],start_dir:3b}},{pattern:{angles:[B;0B,4B],start_dir:0b}},{pattern:{angles:[B;0B,5B,4B,4B,0B,2B,2B],start_dir:1b}},{pattern:{angles:[B;4B,2B,1B,1B,1B,2B],start_dir:1b}},{pattern:{angles:[B;0B,4B,0B,1B,4B,5B,4B],start_dir:2b}},{pattern:{angles:[B;2B,1B,1B,1B,1B,1B],start_dir:1b}}]}")`, } })
+	const inputForm = useForm({ initialValues: { cast: "", } })
 
 
 	const handleInput = (values: inputProps) => {
