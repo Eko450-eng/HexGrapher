@@ -1,3 +1,4 @@
+import React from 'react'
 import './components/styles/App.scss';
 import View from './components/inputForm/View';
 
